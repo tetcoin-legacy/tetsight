@@ -46,7 +46,7 @@
     "start": "INSIGHT_PUBLIC_PATH=public node node_modules/.bin/insight-bitcore-api"
   },
   "dependencies": {
-    "insight-bitcore-api": "git://github.com/tetcoin/tetsight-api.git#cd7a6ddef1a52deb4966e56dbd7692270fb00517"
+    "insight-bitcore-api": "git://github.com/tetcoin/tetsight-api.git#6ffb6504373eab8ee1a52d91b17d5c0cf0219ac5"
   },
   "devDependencies": {
     "bower": "~1.2.8",
